@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 705507994}
-  m_IndirectSpecularColor: {r: 0.44657898, g: 0.4964133, b: 0.5748178, a: 1}
+  m_IndirectSpecularColor: {r: 0.44657826, g: 0.49641263, b: 0.57481676, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -876,11 +876,29 @@ MonoBehaviour:
     m_Options:
     - m_Text: "W\xE4hle aus ..."
       m_Image: {fileID: 0}
-    - m_Text: Wohnzimmer
+    - m_Text: 01 Wohnzimmer
       m_Image: {fileID: 0}
-    - m_Text: Wendehammer
+    - m_Text: 02 Wendehammer
       m_Image: {fileID: 0}
-    - m_Text: LuebeckTest
+    - m_Text: 03 Spieli
+      m_Image: {fileID: 0}
+    - m_Text: 04 Bolz
+      m_Image: {fileID: 0}
+    - m_Text: 05 FiWiese
+      m_Image: {fileID: 0}
+    - m_Text: "06 Gr\xE4ber"
+      m_Image: {fileID: 0}
+    - m_Text: 07 KHaus
+      m_Image: {fileID: 0}
+    - m_Text: 08 WW1/2
+      m_Image: {fileID: 0}
+    - m_Text: 09 AWA Biene
+      m_Image: {fileID: 0}
+    - m_Text: 10 AWA Bus
+      m_Image: {fileID: 0}
+    - m_Text: "11 K\xFCche"
+      m_Image: {fileID: 0}
+    - m_Text: 12 HL Test
       m_Image: {fileID: 0}
   m_OnValueChanged:
     m_PersistentCalls:
