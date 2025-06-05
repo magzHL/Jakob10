@@ -6,14 +6,14 @@ Wendehammer
 hl
 53.856496220742684, 10.697402124954328
 
-- wohnzimmer: blauer ledersessel
-- wendehammer: städt. beet vor krehbiels Haus
-- spieli: nestschaukel
-- bolzplatz: Tor zur fidelis 
-- fideliswiese: Bank zum kloster/ Altenheim hin
-- Hof zwischen Kindergarten Franziskus u Unterkirche/ kirche: Gräber 
-- annastr. kulturhaus: bürgergarten Rosmarin
-- AWA Höhe leibniz: kriegerdenkmal
-- AWA gegenüber delphi: bienenwiesenschild neben Bank
-- AWA hinter unserm Garten: Bushaltestelle
-- Wohnzimmer: küche
+- wohnzimmer: blauer ledersessel: 49.26670181767615, 7.1076999537476855
+- wendehammer: städt. beet vor krehbiels Haus: 49.26646072693884, 7.1078025434863825
+- spieli: nestschaukel: 49.26639802178298, 7.108841872310248
+- bolzplatz: Tor zur fidelis: 49.26792004412167, 7.111895408752613
+- fideliswiese: Bank zum kloster/ Altenheim hin: 49.26814567015934, 7.112463082707703
+- Hof zwischen Kindergarten Franziskus u Unterkirche/ kirche: Gräber: 49.270280213274816, 7.114309498297819
+- annastr. kulturhaus: bürgergarten Rosmarin: 49.270228316005664, 7.11572485421065
+- AWA Höhe leibniz: kriegerdenkmal: 49.27277813008072, 7.115881221811774
+- AWA gegenüber delphi: bienenwiesenschild neben Bank: 49.270051305801736, 7.110917488838727
+- AWA hinter unserm Garten: Bushaltestelle: 49.26690241014641, 7.1073452736299165
+- Wohnzimmer: küche: 49.26675833480028, 7.107735953817151
