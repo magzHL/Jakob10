@@ -148,7 +148,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _playButton: {fileID: 1447761385841243643}
-  _fileToPlay: {fileID: 8300000, guid: b878cfa0ee2aed2408ba7c2379864930, type: 3}
+  _fileToPlay: {fileID: 8300000, guid: 4b49af32764c7e0488bf9f1bac350d29, type: 3}
 --- !u!1 &727497906183126154
 GameObject:
   m_ObjectHideFlags: 0

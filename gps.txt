@@ -14,6 +14,6 @@ hl
 - Hof zwischen Kindergarten Franziskus u Unterkirche/ kirche: Gräber: 49.270280213274816, 7.114309498297819
 - annastr. kulturhaus: bürgergarten Rosmarin: 49.270228316005664, 7.11572485421065
 - AWA Höhe leibniz: kriegerdenkmal: 49.27277813008072, 7.115881221811774
-- AWA gegenüber delphi: bienenwiesenschild neben Bank: 49.270051305801736, 7.110917488838727
+- AWA gegenüber delphi: bienenwiesenschild neben Bank: 49.270051305801736, 7.110917488838727  // neu: 49.27079434894643, 7.111740594405482
 - AWA hinter unserm Garten: Bushaltestelle: 49.26690241014641, 7.1073452736299165
 - Wohnzimmer: küche: 49.26675833480028, 7.107735953817151
