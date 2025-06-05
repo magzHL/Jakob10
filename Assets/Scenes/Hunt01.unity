@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0.37311953, g: 0.38074014, b: 0.3587274, a: 1}
+  m_IndirectSpecularColor: {r: 0.37311918, g: 0.3807398, b: 0.35872716, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -902,8 +902,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _playButton: {fileID: 675698654}
-  gpsLat: 49.266696934100565
-  gpsLong: 7.107722232505492
+  gpsLat: 49.26670181767615
+  gpsLong: 7.1076999537476855
   _hinweis: Wohnzimmer
   debugTxt: {fileID: 798040102}
   gps_ok: 0

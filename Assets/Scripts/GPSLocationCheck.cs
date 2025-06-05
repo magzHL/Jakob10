@@ -123,7 +123,7 @@ public class GPSLocationCheck : MonoBehaviour
             double distanceBetween = distance((double)currLoc.lat, (double)currLoc.lon, (double)gpsLat, (double)gpsLong, 'K');
             debugTxt.text += "Abstand:" + distanceBetween;
 
-            if (distanceBetween < 0.1)
+            if (distanceBetween < 0.015)
             {
                 insideDistance = true;
                 debugTxt.text += "\nOrt gefunden!";

@@ -28,7 +28,6 @@ public class UIMainMenu : MonoBehaviour
             case 3:
                 ScenesManager.Instance.LoadScene(ScenesManager.Scene.Hunt03);
                 break;
-            /**
             case 4:
                 ScenesManager.Instance.LoadScene(ScenesManager.Scene.Hunt04);
                 break;
@@ -36,9 +35,26 @@ public class UIMainMenu : MonoBehaviour
                 ScenesManager.Instance.LoadScene(ScenesManager.Scene.Hunt05);
                 break;
             case 6:
-                ScenesManager.Instance.LoadScene(ScenesManager.Scene.HuntDone);
+                ScenesManager.Instance.LoadScene(ScenesManager.Scene.Hunt06);
                 break;
-            **/
+            case 7:
+                ScenesManager.Instance.LoadScene(ScenesManager.Scene.Hunt07);
+                break;
+            case 8:
+                ScenesManager.Instance.LoadScene(ScenesManager.Scene.Hunt08);
+                break;
+            case 9:
+                ScenesManager.Instance.LoadScene(ScenesManager.Scene.Hunt09);
+                break;
+            case 10:
+                ScenesManager.Instance.LoadScene(ScenesManager.Scene.Hunt10);
+                break;
+            case 11:
+                ScenesManager.Instance.LoadScene(ScenesManager.Scene.Hunt11);
+                break;
+            case 12:
+                ScenesManager.Instance.LoadScene(ScenesManager.Scene.Hunt12);
+                break;
 
         }
     }
