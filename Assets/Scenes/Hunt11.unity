@@ -902,8 +902,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _playButton: {fileID: 675698654}
-  gpsLat: 53.882257502717195
-  gpsLong: 10.67375326649023
+  gpsLat: 49.26675833480028
+  gpsLong: 7.107735953817151
   _hinweis: "K\xFCche"
   debugTxt: {fileID: 798040102}
   gps_ok: 0

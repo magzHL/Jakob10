@@ -26,6 +26,60 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Hunt03AR.unity
     guid: ea3b578de123a0b46af8faeda0ff24c5
+  - enabled: 1
+    path: Assets/Scenes/Hunt04.unity
+    guid: 6098b474bcd56fd468f0573ee7f52abe
+  - enabled: 1
+    path: Assets/Scenes/Hunt04AR.unity
+    guid: 6d6fb6165bddb19418843544d5ab486f
+  - enabled: 1
+    path: Assets/Scenes/Hunt05.unity
+    guid: 38861a3b08022b646a8c658158ec7dd1
+  - enabled: 1
+    path: Assets/Scenes/Hunt05AR.unity
+    guid: 85def22cd620d15449c4cfdaf0731703
+  - enabled: 1
+    path: Assets/Scenes/Hunt06.unity
+    guid: 033bc50627dbd694f908fa3e7b187f37
+  - enabled: 1
+    path: Assets/Scenes/Hunt06AR.unity
+    guid: 4091acf5408073842ad21ad136144d16
+  - enabled: 1
+    path: Assets/Scenes/Hunt07.unity
+    guid: e0edb8c63603d8b409af8176196c71ca
+  - enabled: 1
+    path: Assets/Scenes/Hunt07AR.unity
+    guid: e286a70a7fc7bc843b43a4d0c038efbc
+  - enabled: 1
+    path: Assets/Scenes/Hunt08.unity
+    guid: 8c71a3f57af93b24db6706ddac8dc86a
+  - enabled: 1
+    path: Assets/Scenes/Hunt08AR.unity
+    guid: 196402596129fb04dae7c10eb07ba498
+  - enabled: 1
+    path: Assets/Scenes/Hunt09.unity
+    guid: 1a3a4507102dd98499153482bf4a1b73
+  - enabled: 1
+    path: Assets/Scenes/Hunt09AR.unity
+    guid: 3ccf3d71a2d94ed489f5fe397a2b877e
+  - enabled: 1
+    path: Assets/Scenes/Hunt10.unity
+    guid: 485fba7a44a516f459cac60ce3aed2f2
+  - enabled: 1
+    path: Assets/Scenes/Hunt10AR.unity
+    guid: 67aeecef25abf6646b91e5836b84ce77
+  - enabled: 1
+    path: Assets/Scenes/Hunt11.unity
+    guid: 89982e48b40755948b4eeac5ee48061d
+  - enabled: 1
+    path: Assets/Scenes/Hunt11AR.unity
+    guid: c8bc1bafcfe19c54d94c07f4f6cf4034
+  - enabled: 1
+    path: Assets/Scenes/Hunt12.unity
+    guid: cccb75ad36781534091237cce2bb6cfd
+  - enabled: 1
+    path: Assets/Scenes/Hunt12AR.unity
+    guid: a4deab4456d850a4098518221b7a37b4
   m_configObjects:
     UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: df5e8da435bb0164cb9efbb6f27deca0, type: 2}
     com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: de2718883e1ce1b408bb14cce5f68709, type: 2}
